@@ -53,7 +53,8 @@
 
 
 
-**Day 1: Monday March 1st 2021
+
+### Day 1: Monday March 1st 2021
 
 **Today's Progress**: I've gone through the majority of HTML & HTML 5 basics on Freecodecamp and setup this github account along with forking the template to create my log.
 
