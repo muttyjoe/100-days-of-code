@@ -1,23 +1,42 @@
 # 100 Days Of Code - Log
-
+<!--
 ### Day 0: February 30, 2016 (Example 1)
 ##### (delete me or comment me out)
+-->
 
+<!--
 **Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+-->
 
+<!--
 **Thoughts:** I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+-->
 
+
+<!--
 **Link to work:** [Calculator App](http://www.example.com)
+-->
 
+
+<!--
 ### Day 0: February 30, 2016 (Example 2)
 ##### (delete me or comment me out)
+-->
 
+
+<!--
 **Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+-->
 
+
+<!--
 **Thoughts**: I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+-->
 
+
+<!--
 **Link(s) to work**: [Calculator App](http://www.example.com)
-
+-->
 
 ### Day 1: June 27, Monday
 
@@ -37,5 +56,8 @@
 **Day 1: Monday March 1st 2021
 
 **Today's Progress**: I've gone through the majority of HTML & HTML 5 basics on Freecodecamp and setup this github account along with forking the template to create my log.
+
+**Thoughts** Feels good to finally start and commit to this.
+
 **Link(s) to work**
 No links as yet as havn't got to the stage of creating anything.
