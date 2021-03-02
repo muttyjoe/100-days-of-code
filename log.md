@@ -49,7 +49,7 @@
 
 
 
-### Day 1: Monday March 1st 2021
+### Day 1: Monday March 1st 2021 - 60 mins
 
 **Today's Progress**: I've gone through the majority of HTML & HTML 5 basics on Freecodecamp and setup this github account along with forking the template to create my log.
 
@@ -60,7 +60,7 @@ No links as yet as havn't got to the stage of creating anything.
 
 
 
-### Day 2: Tuesday 2nd March 2021
+### Day 2: Tuesday 2nd March 2021 - 70 mins
 
 **Today's Progress**: Went over the last section of HTML basics and have completed the 1st half of CSS basics. 
 
