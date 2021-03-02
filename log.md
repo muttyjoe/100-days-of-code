@@ -59,11 +59,12 @@
 No links as yet as havn't got to the stage of creating anything.
 
 
-### Day 2: TUesday 2nd March 2021
+
+### Day 2: Tuesday 2nd March 2021
 
 **Today's Progress**: Went over the last section of HTML basics and have completed the 1st half of CSS basics. 
 
-**Thoughts** Would be better to start earlier in the day if possible as my brain is seems fuzzy later at night.
+**Thoughts** Would be better to start earlier in the day if possible as my brain seems fuzzy later at night.
 
 **Link(s) to work**
 No links as yet as havn't got to the stage of creating anything.
