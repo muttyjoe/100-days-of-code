@@ -69,3 +69,13 @@ No links as yet as havn't got to the stage of creating anything.
 **Link(s) to work**
 No links as yet as havn't got to the stage of creating anything.
 
+
+### Day 3: Wednesday 3rd March 2021 - 110 mins
+
+**Today's Progress**: Finished CSS Basics and got approximately halfway through Applied Visual Design. Took notes.
+
+**Thoughts** Read up further on Variables and Pseudo Classes.
+
+**Link(s) to work**
+No links as yet as havn't got to the stage of creating anything.
+
