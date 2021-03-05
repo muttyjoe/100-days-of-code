@@ -79,3 +79,12 @@ No links as yet as havn't got to the stage of creating anything.
 **Link(s) to work**
 No links as yet as havn't got to the stage of creating anything.
 
+### Day 4: Thursday 4th March 2021 - 70 mins
+
+**Today's Progress**: Got up to: Use a CSS Linear Gradient to Create a Striped Element in Applied Visual Design. Took good notes which slowed down the process - possibly not the learning process though?! Also spent time reading about CSS Variables online to try to understand in more detail as I've seen these appear a lot recently in sites I've been looking at.
+
+**Thoughts** Liverpool sucked today.
+
+**Link(s) to work**
+No links as yet as havn't got to the stage of creating anything.
+
