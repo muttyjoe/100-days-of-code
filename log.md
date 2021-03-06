@@ -88,3 +88,9 @@ No links as yet as havn't got to the stage of creating anything.
 **Link(s) to work**
 No links as yet as havn't got to the stage of creating anything.
 
+### Day 5: Friday 5th March 2021 - 120 mins
+
+**Today's Progress**: Finished Applied visual design. Read the awesome Jennifer Niederst Robbins book - section about pseudo classes and elements and from her recommendation checked out smashing magazines articles on pseudo classes. Took extensive notes on the freecodecamp Applied Visual Design section.
+
+**Thoughts** Need to go back over animations and take netter notes. It's nearly 4am and I'm so tired which definitely affected my note taking.
+
