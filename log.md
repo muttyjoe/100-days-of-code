@@ -94,3 +94,14 @@ No links as yet as havn't got to the stage of creating anything.
 
 **Thoughts** Need to go back over animations and take netter notes. It's nearly 4am and I'm so tired which definitely affected my note taking.
 
+**Link(s) to work**
+No links as yet as havn't got to the stage of creating anything.
+
+### Day 5: Saturday 6th March 2021 - 60 mins
+
+**Today's Progress**: Completed Applied Accessibility on freecodecamp but didn't take notes. Will go over this section again tomorrow and take down some notes.
+
+**Thoughts** Well tired. Liverpool better win tomorrow.
+
+**Link(s) to work**
+No links as yet as havn't got to the stage of creating anything.
