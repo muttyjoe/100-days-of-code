@@ -109,7 +109,7 @@ No links as yet as havn't got to the stage of creating anything.
 
 ### Day 7: Sunday 7th March 2021 - 105 mins
 
-**Today's Progress**: Completed Responsive web design principles and Flexbox  on freecodecamp and took notes. S
+**Today's Progress**: Completed Responsive web design principles and Flexbox  on freecodecamp and took notes.
 
 **Thoughts** Still need to go over Applied Accessibility and take down some notes.
 
