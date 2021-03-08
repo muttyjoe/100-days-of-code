@@ -97,11 +97,21 @@ No links as yet as havn't got to the stage of creating anything.
 **Link(s) to work**
 No links as yet as havn't got to the stage of creating anything.
 
-### Day 5: Saturday 6th March 2021 - 60 mins
+### Day 6: Saturday 6th March 2021 - 60 mins
 
 **Today's Progress**: Completed Applied Accessibility on freecodecamp but didn't take notes. Will go over this section again tomorrow and take down some notes.
 
 **Thoughts** Well tired. Liverpool better win tomorrow.
+
+**Link(s) to work**
+No links as yet as havn't got to the stage of creating anything.
+
+
+### Day 7: Sunday 7th March 2021 - 105 mins
+
+**Today's Progress**: Completed Responsive web design principles and Flexbox  on freecodecamp and took notes. S
+
+**Thoughts** Still need to go over Applied Accessibility and take down some notes.
 
 **Link(s) to work**
 No links as yet as havn't got to the stage of creating anything.
