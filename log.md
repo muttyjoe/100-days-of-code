@@ -115,3 +115,12 @@ No links as yet as havn't got to the stage of creating anything.
 
 **Link(s) to work**
 No links as yet as havn't got to the stage of creating anything.
+
+### Day 8: Monday 8th March 2021 - 60 mins
+
+**Today's Progress**: Read Flexbox article on css-tricks.co.uk and read Flex chapter in Responsive Web Design with HTML5 & CSS by Ben Frain. 
+
+**Thoughts** https://css-tricks.com/understanding-flex-grow-flex-shrink-and-flex-basis/
+
+**Link(s) to work**
+No links as yet as havn't got to the stage of creating anything.
