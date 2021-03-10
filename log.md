@@ -124,3 +124,12 @@ No links as yet as havn't got to the stage of creating anything.
 
 **Link(s) to work**
 No links as yet as havn't got to the stage of creating anything.
+
+### Day 9: Tuesday 9th March 2021 - 105 mins
+
+**Today's Progress**: Completed CSS Grid on freecodecamp.
+
+**Thoughts** 
+
+**Link(s) to work**
+No links as yet as havn't got to the stage of creating anything.
