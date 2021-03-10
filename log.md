@@ -129,7 +129,7 @@ No links as yet as havn't got to the stage of creating anything.
 
 **Today's Progress**: Completed CSS Grid on freecodecamp.
 
-**Thoughts** 
+**Thoughts** I really want to have an in depth understanding of both flexbox and grid as they seem so powerful.
 
 **Link(s) to work**
 No links as yet as havn't got to the stage of creating anything.
