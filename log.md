@@ -133,3 +133,12 @@ No links as yet as havn't got to the stage of creating anything.
 
 **Link(s) to work**
 No links as yet as havn't got to the stage of creating anything.
+
+### Day 10: Wednesday 10th March 2021 - 60 mins
+
+**Today's Progress**: Started 1st project on FreeCodeCamp - Tribute page
+
+**Thoughts** Finally starting the 1st project.
+
+**Link(s) to work**
+https://codepen.io/daysofcode/pen/eYBbZWX
