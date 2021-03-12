@@ -142,3 +142,13 @@ No links as yet as havn't got to the stage of creating anything.
 
 **Link(s) to work**
 https://codepen.io/daysofcode/pen/eYBbZWX
+
+
+### Day 11: Thursday 11th March 2021 - 60 mins
+
+**Today's Progress**: Continued 1st project on FreeCodeCamp - Tribute page
+
+**Thoughts** There's sooo much stuff I want to add and so much I've forgotten already.
+
+**Link(s) to work**
+https://codepen.io/daysofcode/pen/eYBbZWX
