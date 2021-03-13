@@ -152,3 +152,11 @@ https://codepen.io/daysofcode/pen/eYBbZWX
 
 **Link(s) to work**
 https://codepen.io/daysofcode/pen/eYBbZWX
+
+### Day 12: Friday 12th March 2021 - 60 mins
+
+**Today's Progress**: Took some time out and read up further on CSS Grid. 
+
+**Thoughts** CSSTRICKS css grid is awesome. https://css-tricks.com/snippets/css/complete-guide-grid/#prop-place-self
+**Link(s) to work**
+https://codepen.io/daysofcode/pen/eYBbZWX
