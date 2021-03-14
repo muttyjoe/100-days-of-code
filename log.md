@@ -160,3 +160,12 @@ https://codepen.io/daysofcode/pen/eYBbZWX
 **Thoughts** CSSTRICKS css grid is awesome. https://css-tricks.com/snippets/css/complete-guide-grid/#prop-place-self
 **Link(s) to work**
 https://codepen.io/daysofcode/pen/eYBbZWX
+
+### Day 13: Saturday 13th March 2021 - 60 mins
+
+**Today's Progress**: More learning of CSS Grid - Responsive Web Design Using HTML & CSS Book Chapter 5.
+
+**Thoughts** 
+
+**Link(s) to work**
+https://codepen.io/daysofcode/pen/eYBbZWX
