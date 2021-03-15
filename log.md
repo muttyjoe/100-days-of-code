@@ -169,3 +169,12 @@ https://codepen.io/daysofcode/pen/eYBbZWX
 
 **Link(s) to work**
 https://codepen.io/daysofcode/pen/eYBbZWX
+
+### Day 14: Sunday 14th March 2021 - 60 mins
+
+**Today's Progress**: More learning of CSS Grid - I love it! Finished Ben Frain Chapter 5. Continued with 1st project on FreeCodeCamp and used Variables.
+
+**Thoughts** - Using variables suddenly makes sense how freakin eaxy it makes life! Will definitely need to go over chapter 5 again. I think having a deep understanding on Grid & Flexbox will give me an excellent base to work from.
+
+**Link(s) to work**
+https://codepen.io/daysofcode/pen/eYBbZWX
